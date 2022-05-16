@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/.env</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/PincodeController.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/public/themes/eCart/js/cartajax.js</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/HomeController.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/public/themes/eCart/js/cartpageajax.js</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/parts/offers.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/CheckoutController.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/SellerController.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/Controller.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/PaymentController.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/parts/style_1.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/SavelaterController.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/home.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/parts/style_2.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/cart.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/sub-categories.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/app/Http/Controllers/CartController.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/config/ekart.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/common/header.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/parts/categories.blade.php</file>
+            <file>file:/home/shreesoftech/Desktop/eCart%20Web%20-%20Multi%20Vendor%20eCommerce%20Marketplace-v1.0.8/eCartWebMultivendorv1.0.8/eCart%20-%20Multivendor%20Web%20%20v1.0.8/Main%20Code/resources/views/themes/eCart/seller-details.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
